@@ -7,7 +7,7 @@ Data: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 Q: Average Price of a Room to stay in various neighborhood region of New York ?
 
 Findings: Ford Wadsworth has on average expensive rates while Unionport and Eastchester has lowest rate on average for rooms.
-Business Problems:
+
 
 ![image](https://user-images.githubusercontent.com/61126881/120142506-05bcf900-c1a4-11eb-8bdf-3b7bfe0650fd.png)
 
